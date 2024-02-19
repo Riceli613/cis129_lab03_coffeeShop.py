@@ -1,3 +1,5 @@
+#Riceli Foster
+#CIS 129
 #Here's my coffee and muffin shop code! I added the choices of donuts and scones!
 
 #First, we must define the variables. Technically, you do not have to do this part since the prices and percent for tax are unchanging, but I wanted to get more comfortable with variables.
